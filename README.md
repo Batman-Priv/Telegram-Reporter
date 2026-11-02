@@ -267,6 +267,12 @@ The VIP version includes advanced features:
 - ✅ Import/Export accounts (JSON)
 - ✅ Email templates & custom bodies
 
+<p align="center">
+  <img src="images/1.jpg" width="300">
+  <img src="images/2.jpg" width="300">
+  <img src="images/3.jpg" width="300">
+</p>
+
 **Contact for VIP access:** [@SpecterOg](https://t.me/SpecterOg)
 
 ---
