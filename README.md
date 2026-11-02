@@ -54,7 +54,7 @@
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/SpecterNIL/Telegram-Reporter.git
+git clone https://gitlab.com/specterog/Telegram-Reporter.git
 cd Telegram-Reporter
 ```
 
@@ -273,23 +273,8 @@ The VIP version includes advanced features:
 
 ## 📞 Contact & Support
 
-- **GitHub:** [github.com/SpecterNIL](https://github.com/SpecterNIL)
+- **GitHub:** [gitlab.com/specterog](https://gitlab.com/specterog)
 - **Telegram:** [@esfelorm](https://t.me/esfelorm)
 
 For bug reports, feature requests, or support, please open an issue on GitHub or contact via Telegram.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-**⭐ Star this repository if you find it useful!**
-
-Made with ❤️ by [SpecterNIL](https://github.com/SpecterNIL)
-
-</div>
