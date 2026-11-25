@@ -54,7 +54,7 @@
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://gitlab.com/specterog/Telegram-Reporter.git
+git clone https://github.com/Batman-Priv/Telegram-Reporter.git
 cd Telegram-Reporter
 ```
 
@@ -279,7 +279,7 @@ The VIP version includes advanced features:
 
 ## 📞 Contact & Support
 
-- **GitHub:** [gitlab.com/specterog](https://gitlab.com/specterog)
+- **GitHub:** [github.com/Batman-Priv](https://github.com/Batman-Priv)
 - **Telegram:** [@esfelorm](https://t.me/esfelorm)
 
 For bug reports, feature requests, or support, please open an issue on GitHub or contact via Telegram.
